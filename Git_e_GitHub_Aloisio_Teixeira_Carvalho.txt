@@ -1,0 +1,11 @@
+01 - O sistema de controle de versões denominado Git foi criado por ninguem menos que Linus Torvalds,
+criador do Linux. Após se sentir insatisfeito com mudanças nas licensas de uso do BitKeeper, sistema de
+controle de versões ultilizado por ele e pela equipe de desenvolvimento do Linux.
+
+
+02 - Manter a maior plataforma de código aberto é uma tarefa complexa, e no ano de 2018 o GitHub tinha duas
+alternativas: abrir capital aberto ou ser comprado. Foi quando a Microsoft o adquiriu.
+
+
+03 - Há outras maneiras de trabalhar com o GitHub alem do termial, como por exemplo o uso do app GitHub Desktop.
+Também há a possibilidade, se vc for usuário da IDE VsCode, de fazer os 'commits' com apenas cliks.
