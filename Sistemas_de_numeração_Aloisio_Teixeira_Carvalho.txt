@@ -1,0 +1,58 @@
+    Sistemas de Numeração
+
+Com o crescimento das civilizações o gerenciamento dos recursos para a sobrevivência foi ficando cada vez mais complexo, surgindo então a necessidade de sistemas para quantificar e contabilizar tais recursos. Foi a partir dessa necessidades que diferentes civilizações desenvolveram seus sistemas de numeração proprios.
+
+
+    Sistema Binário
+
+O matemático indiano Pingala apresentou a primeira descrição conhecida de um sistema numérico binário no século III a.C., representando os números de 1 a 8 com a sequência (usando símbolos modernos) 001, 010, 011, 100, 101, 110, 111 e 1000.
+No sistema binário qualquer quantidade numérica pode ser representada a partir de sequencias posicionais dos digitos 0 e 1.
+O sistema binário é o sistema de numeração que forma as bases da computação onde as variações de tenção entre positivo e negativo ou positivo e neutro, e demais possibilidades, são representados no sistema binario como 0 ou 1 e suas respectivas combinações.
+
+
+    Sistema Octal
+
+O sistema octal é um sistema de numeração posicional que ultiliza 8 simbolos e suas possiveis combinações para representar qualquer quantidade numérica. No ocidente, estes símbolos são os algarismos arábicos.
+
+    Sistema Hexadecimal
+
+O sistema hexadecimal também é um sistema de numeração posicional que ultiliza 16 simbolos e suas possiveis combinaçôes para representar qualquer quantidade numérica. Os 10 primeiros simbolos do sistema hexadecimal são iguais aos do sistema descimal (0, 1, 2, ..., 9), mas a partir do algarismo 10 as coisas mudam. As quantidades 10, 11, 12, 13, 14 e 15 são representadas respectivamente pelas letras A, B, C, D, E,e F.
+
+
+               TABELA DE CONVERSÃO DE BASES
+
+    +-----------+---------+---------------+-----------+
+    |  BINARIO  |  OCTAL  |  HEXADECIMAL  |  DECIMAL  |
+    +-----------+---------+---------------+-----------+
+    | 00000000  |   000   |      00       |     0     |
+    +-----------+---------+---------------+-----------+
+    | 00000001  |   001   |      01       |     1     |
+    +-----------+---------+---------------+-----------+
+    | 00000010  |   002   |      02       |     2     |
+    +-----------+---------+---------------+-----------+
+    | 00000011  |   003   |      03       |     3     |
+    +-----------+---------+---------------+-----------+
+    | 00000100  |   004   |      04       |     4     |
+    +-----------+---------+---------------+-----------+
+    | 00000101  |   005   |      05       |     5     |
+    +-----------+---------+---------------+-----------+
+    | 00000110  |   006   |      06       |     6     |
+    +-----------+---------+---------------+-----------+
+    | 00000111  |   007   |      07       |     7     |
+    +-----------+---------+---------------+-----------+
+    | 00001000  |   010   |      08       |     8     |
+    +-----------+---------+---------------+-----------+
+    | 00001001  |   011   |      09       |     9     |
+    +-----------+---------+---------------+-----------+
+    | 00001010  |   012   |      A        |     10    |
+    +-----------+---------+---------------+-----------+
+    | 00001011  |   013   |      B        |     11    |
+    +-----------+---------+---------------+-----------+
+    | 00001100  |   014   |      C        |     12    |
+    +-----------+---------+---------------+-----------+
+    | 00001101  |   015   |      D        |     13    |
+    +-----------+---------+---------------+-----------+
+    | 00001110  |   016   |      E        |     14    |
+    +-----------+---------+---------------+-----------+
+    | 00001111  |   017   |      F        |     15    |
+    +-----------+---------+---------------+-----------+
