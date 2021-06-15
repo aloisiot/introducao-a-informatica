@@ -1,9 +1,9 @@
     Sistemas de Numeração
 
-Com o crescimento das civilizações o gerenciamento dos recursos para a sobrevivência 
+Na antiguidade com o crescimento das civilizações o gerenciamento dos recursos para a sobrevivência 
 foi ficando cada vez mais complexo, surgindo então a necessidade de sistemas para 
 quantificar e contabilizar tais recursos. Foi a partir dessa necessidades que diferentes 
-civilizações desenvolveram seus sistemas de numeração proprios.
+civilizações desenvolveram seus sistemas de numeração.
 
 
     Sistema Binário
@@ -14,7 +14,7 @@ sequência (usando símbolos modernos) 001, 010, 011, 100, 101, 110, 111 e 1000.
 No sistema binário qualquer quantidade numérica pode ser representada a partir de 
 sequencias posicionais dos digitos 0 e 1.
 O sistema binário é o sistema de numeração que forma as bases da computação onde as 
-variações de tenção entre positivo e negativo ou positivo e neutro, e demais possibilidades, 
+variações de tensão entre positivo e negativo ou positivo e neutro, e demais possibilidades, 
 são representados no sistema binario como 0 ou 1 e suas respectivas combinações.
 
 
@@ -23,6 +23,7 @@ são representados no sistema binario como 0 ou 1 e suas respectivas combinaçõ
 O sistema octal é um sistema de numeração posicional que ultiliza 8 simbolos e suas 
 possiveis combinações para representar qualquer quantidade numérica. No ocidente, 
 estes símbolos são os algarismos arábicos.
+
 
     Sistema Hexadecimal
 
